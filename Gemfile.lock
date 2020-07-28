@@ -820,7 +820,7 @@ GEM
     http_parser.rb (0.6.0)
     jaro_winkler (1.5.4)
     jmespath (1.4.0)
-    json (2.2.0)
+    json (2.3.1)
     jwt (2.2.1)
     multi_json (1.14.1)
     multipart-post (2.1.1)
