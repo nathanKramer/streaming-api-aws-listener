@@ -14,6 +14,6 @@ gem "rubocop", "~> 0.76.0", :group => :development
 
 gem "eventmachine", "~> 1.2"
 
-gem "faye", "~> 1.2"
+gem "faye", "~> 1.4"
 
 gem "aws-sdk", "~> 3.0"
